@@ -80,3 +80,5 @@ Inventory Service
 - No network configuration complexity
 - Regional service connectivity
 - AWS-managed backbone routing
+
+- Overview ![alt text](IMG_9995.JPG)
